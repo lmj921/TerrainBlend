@@ -1,0 +1,11 @@
+Temp/
+*.csproj
+*.sln
+*.userprefs
+*.unityproj
+*.DS_Store
+
+Library/*
+building/
+.vs
+.idea
